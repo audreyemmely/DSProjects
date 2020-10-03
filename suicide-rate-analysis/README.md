@@ -1,7 +1,7 @@
 # Suicide Rates Overview 1985 to 2016
 Compares socio-economic info with suicide rates by year and country
 
-##About the CSV file
+## About the CSV file
 The file contains 12 columns which include information about country, year, sex, age group, count of suicides, population, suicide rate, country-year composite key, HDI for year, gdpforyear, gdppercapita, generation (based on age grouping average).
 
 ## References
