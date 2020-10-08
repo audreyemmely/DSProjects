@@ -13,9 +13,25 @@ Exemplo:
 > Sinto sua falta ---> tristeza
 
 ## Sobre o arquivo CSV
-O arquivo contém 2 colunas contendo frases e sentimentos, todas as frases foram retiradas de diferentes websites.
+O arquivo contém 2 colunas preenchidas com frases e sentimentos, todas as frases foram retiradas de diferentes websites.
 
+## Sobre a utilização do projeto
+Para utilizar o projeto, primeiramente, é preciso clonar o repositório. Abra o seu terminal, configure o caminho onde você deseja salvar o repositório na sua máquina local e digite o seguinte comando:
 
+`git clone https://github.com/audreyemmely/DSProjects.git`
+
+Em seguida, acesse a pasta `analise-sentimento` e abra o arquivo `.ipynb` com o [Google Colab](https://colab.research.google.com/) ou algum outro ambiente que suporte essa extensão.
+
+Para um ambiente local, como o [Jupyter](https://jupyter.org/install), por exemplo, faz-se necessário a instalação das seguintes bibliotecas, caso não estejam instaladas:
+```
+pandas
+scikit-learn
+```
+Saiba como instalá-las aqui:
+
+[Pandas](https://pandas.pydata.org/docs/getting_started/install.html)
+
+[Scikit-learn](https://scikit-learn.org/stable/install.html)
 
 ## Referências
 [Análise de Sentimentos com Machine Learning](https://www.datageeks.com.br/analise-de-sentimentos/)
