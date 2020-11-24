@@ -1,4 +1,4 @@
-# Desafio para a Handtalk - Análise de sentimento
+# Desafio para a Hand Talk - Análise de sentimento
 Quando uma empresa deseja entender o que estão falando sobre ela e qual a reputação de seus produtos online, uma das formas de se fazer isso é utilizando machine learning, assim como sua subárea chamada Deep Learning. Nesse sentido, uma das técnicas recomendadas é a análise de sentimentos, que consiste em extrair informações de textos a partir de linguagem natural.
 
 Apesar de não ser a única, a análise de sentimentos é a ferramenta de classificação de textos mais comum que analisa uma mensagem recebida e informa seu sentimento implícito. 
